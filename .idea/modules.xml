@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AmyFinal/.idea/Eye.iml" filepath="$PROJECT_DIR$/../AmyFinal/.idea/Eye.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GazeTrackingYoga.iml" filepath="$PROJECT_DIR$/.idea/GazeTrackingYoga.iml" />
+    </modules>
+  </component>
+</project>

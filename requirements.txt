@@ -1,3 +1,6 @@
 numpy == 1.22.0
 opencv_python == 4.2.0.32
 dlib == 19.16.0
+datetime == 5.5
+pyautogui == 0.9.54
+pandas == 2.2.2

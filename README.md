@@ -15,11 +15,11 @@ and this is test on my Yoga Laptop build in webcam
 Clone this project:
 
 ```shell
-git clone https://github.com/AmyZhangWQ/GazeTrackingYoga.git
+git clone https://github.com/AmyZhangWQ/GazeTrackingYogaNew.git
 ```
 
 ### For Pip install
-Install these dependencies (NumPy, OpenCV, Dlib):
+Install these dependencies (NumPy, OpenCV, Dlib, pyautogui, pandas,datetime):
 
 ```shell
 pip install -r requirements.txt
